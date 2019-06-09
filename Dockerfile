@@ -1,4 +1,4 @@
-FROM redis:5.0.5-alpine
+FROM redis:alpine
 
 ENV KUBE_LATEST_VERSION="v1.14.3"
 
